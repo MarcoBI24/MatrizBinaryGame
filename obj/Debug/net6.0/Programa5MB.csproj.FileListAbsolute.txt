@@ -1,0 +1,15 @@
+C:\Users\MARCO BERNA\Desktop\Programa5MB\obj\Debug\net6.0\Programa5MB.csproj.AssemblyReference.cache
+C:\Users\MARCO BERNA\Desktop\Programa5MB\obj\Debug\net6.0\Programa5MB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCO BERNA\Desktop\Programa5MB\obj\Debug\net6.0\Programa5MB.AssemblyInfoInputs.cache
+C:\Users\MARCO BERNA\Desktop\Programa5MB\obj\Debug\net6.0\Programa5MB.AssemblyInfo.cs
+C:\Users\MARCO BERNA\Desktop\Programa5MB\obj\Debug\net6.0\Programa5MB.csproj.CoreCompileInputs.cache
+C:\Users\MARCO BERNA\Desktop\Programa5MB\bin\Debug\net6.0\Programa5MB.exe
+C:\Users\MARCO BERNA\Desktop\Programa5MB\bin\Debug\net6.0\Programa5MB.deps.json
+C:\Users\MARCO BERNA\Desktop\Programa5MB\bin\Debug\net6.0\Programa5MB.runtimeconfig.json
+C:\Users\MARCO BERNA\Desktop\Programa5MB\bin\Debug\net6.0\Programa5MB.dll
+C:\Users\MARCO BERNA\Desktop\Programa5MB\bin\Debug\net6.0\ref\Programa5MB.dll
+C:\Users\MARCO BERNA\Desktop\Programa5MB\bin\Debug\net6.0\Programa5MB.pdb
+C:\Users\MARCO BERNA\Desktop\Programa5MB\obj\Debug\net6.0\Programa5MB.dll
+C:\Users\MARCO BERNA\Desktop\Programa5MB\obj\Debug\net6.0\ref\Programa5MB.dll
+C:\Users\MARCO BERNA\Desktop\Programa5MB\obj\Debug\net6.0\Programa5MB.pdb
+C:\Users\MARCO BERNA\Desktop\Programa5MB\obj\Debug\net6.0\Programa5MB.genruntimeconfig.cache
