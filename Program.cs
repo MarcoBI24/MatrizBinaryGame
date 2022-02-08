@@ -3,7 +3,8 @@ public class Programa
 {
    
     public static void Main()
-    {       
+    {     
+         
 
         // Reglas:
         // crear una matriz de 4x4 de ceros(Matriz inicial).
